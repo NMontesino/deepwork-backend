@@ -5,3 +5,11 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+
+User.destroy_all()
+Task.destroy_all()
+
+User.create(username: "Nick", password: "nickspassword")
+Task.create(name: "Test Serializers", important: true, urgent: true, user_id: 1)
+
+puts "Successfully Seeded"
