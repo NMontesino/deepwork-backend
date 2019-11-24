@@ -10,6 +10,6 @@ User.destroy_all()
 Task.destroy_all()
 
 User.create(username: "Nick", password: "nickspassword")
-Task.create(name: "Test Serializers", important: true, urgent: true, user_id: 1)
+Task.create(name: "Test Serializers", important: true, urgent: true, user_id: 3)
 
 puts "Successfully Seeded"
