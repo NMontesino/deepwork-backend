@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.16ea595c.chunk.css",
+    "main.js": "/static/js/main.c2df51d0.chunk.js",
+    "main.js.map": "/static/js/main.c2df51d0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.bf07e05f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.bf07e05f.js.map",
+    "static/js/2.05bb5a85.chunk.js": "/static/js/2.05bb5a85.chunk.js",
+    "static/js/2.05bb5a85.chunk.js.map": "/static/js/2.05bb5a85.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.442a4c6e91740dfe5b86d1e8ba00b6fc.js": "/precache-manifest.442a4c6e91740dfe5b86d1e8ba00b6fc.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.16ea595c.chunk.css.map": "/static/css/main.16ea595c.chunk.css.map",
+    "static/media/Mindfulness Bell - A 5 Minute Mindfulness Meditation.wav": "/static/media/Mindfulness Bell - A 5 Minute Mindfulness Meditation.a76ce233.wav",
+    "static/media/noun_Play in circle_2433769.svg": "/static/media/noun_Play in circle_2433769.140e6d8d.svg",
+    "static/media/noun_Refresh_2433739.svg": "/static/media/noun_Refresh_2433739.692f8292.svg",
+    "static/media/noun_pause in circle_2433738.svg": "/static/media/noun_pause in circle_2433738.2dc19fd1.svg",
+    "static/media/service-bell_daniel_simion.wav": "/static/media/service-bell_daniel_simion.5a4b55a8.wav"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf07e05f.js",
+    "static/js/2.05bb5a85.chunk.js",
+    "static/css/main.16ea595c.chunk.css",
+    "static/js/main.c2df51d0.chunk.js"
+  ]
+}
